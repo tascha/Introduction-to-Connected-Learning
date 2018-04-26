@@ -2,7 +2,7 @@
 
 **Connected learning** is an educational framework that connects **interests**, **relationships**, and **opportunity**. This section provides an overview of the concept, including the **equity agenda** that drives the framework, and introduces **ConnectedLib**.
 
-<div class="table-format objectives"><span class="title"><h5>LEARNING OUTCOMES FOR THIS SECTION</h5></span>After completing Section 1: Introduction, you will be able to...<ul><li>Briefly describe connected learning and the “equity agenda” behind the framework.</li><li>Name, describe, and recognize the three spheres that connected learning connects: interests, relationships, and opportunity.</li><li>Navigate the ConnectedLib modules.
+<div class="table-format objectives"><span class="title"><h5>LEARNING OUTCOMES FOR THIS SECTION</h5></span>After completing Section 1: Introduction, you will be able to...<ul><li>Briefly describe connected learning and the “equity agenda” behind the framework.</li><li>Name, describe, and recognize the three spheres that connected learning connects: interests, relationships, and opportunity.</li><li>Navigate the ConnectedLib modules.[^1]
 
 </li></ul></div>
 
