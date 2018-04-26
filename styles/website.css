@@ -21,7 +21,7 @@
 
 .comments-section {
     color: black;
-    background-color: #D9D9D9;
+    font-weight: bold;
 }
 
 /* end callout box styles */
@@ -32,7 +32,13 @@
     background-color: #fe9a85;
 }
 
-/* end styles for row colors */     
+/* end styles for row colors */   
+
+/* other custom stuff */
+
+a {
+    font-weight: bold;
+}    
 
 .cell-width {
 
