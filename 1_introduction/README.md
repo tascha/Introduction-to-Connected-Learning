@@ -2,9 +2,13 @@
 
 **Connected learning** is an educational framework that connects **interests**, **relationships**, and **opportunity**. This section provides an overview of the concept, including the **equity agenda** that drives the framework, and introduces **ConnectedLib**.
 
-<div class="table-format objectives"><span class="title"><h5>LEARNING OUTCOMES FOR THIS SECTION</h5></span>After completing Section 1: Introduction, you will be able to...<ul><li>Briefly describe connected learning and the “equity agenda” behind the framework.</li><li>Name, describe, and recognize the three spheres that connected learning connects: interests, relationships, and opportunity.</li><li>Navigate the ConnectedLib modules.</li></ul></div>
+<div class="table-format objectives"><span class="title"><h5>LEARNING OUTCOMES FOR THIS SECTION</h5></span>After completing Section 1: Introduction, you will be able to...<ul><li>Briefly describe connected learning and the “equity agenda” behind the framework.</li><li>Name, describe, and recognize the three spheres that connected learning connects: interests, relationships, and opportunity.</li><li>Navigate the ConnectedLib modules.
 
-<div class="table-format quote"><span class="quote-text">“Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”  --  Mimi  Ito  et al.</span>[^1]</div>
+</li></ul></div>
+
+<div class="table-format quote"><span class="quote-text">“Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”  --  Mimi  Ito  et al.</span>[^1]
+
+</div>
 
 Connected learning is an educational framework—an approach to creating learning experiences. Connected learning is driven by learners’ interests, supported by their relationships, and oriented towards academic, economic, or civic opportunity.
 
