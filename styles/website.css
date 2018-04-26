@@ -47,14 +47,13 @@ iframe {
     width: 30%;
 }
 
-.markdown-section hr {
+/*  .markdown-section hr {
     height: 1px;
     padding: 0;
     margin-top: 0.5em;
     overflow: hidden;
     background-color: black;
-    border: none;
-}
+    border: none; */
 
 .table-format1 {
     background: #c2f0c2;
