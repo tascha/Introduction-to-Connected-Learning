@@ -15,6 +15,7 @@
   * [Shared Purpose](2_connected_learning_design_principles/shared_purpose.md)
   * [Sponsorship](2_connected_learning_design_principles/sponsorship.md)
   * [Section 2 Activities](2_connected_learning_design_principles/section_2_activities.md)
+    * [2A. Self-Assessment](2_connected_learning_design_principles/section_2_activities/2a-self-assessment.md)
 * [3. Why Your Library Needs Connected Learning](3_why_your_library_needs_connected_learning/README.md)
   * [Promoting Equity](3_why_your_library_needs_connected_learning/promoting_equity.md)
   * [Building Capacity for Learning](3_why_your_library_needs_connected_learning/building_capacity_for_learning.md)
