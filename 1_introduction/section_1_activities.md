@@ -6,4 +6,4 @@
 
 [1C. Reflection: Learn to DJ Lab](section_1_activities/1c-reflection-learn-to-dj-lab.html)
 
-[1D. Reflection: Interest-driven Learning](section_1_activities/1d-reflection-interest-driven-learning.html)
+[1D. Reflection: Interest-Driven Learning](section_1_activities/1d-reflection-interest-driven-learning.html)
