@@ -11,7 +11,8 @@
 Connected learning is an educational framework—an approach to creating learning experiences. Connected learning is driven by learners’ interests, supported by their relationships, and oriented towards academic, economic, or civic opportunity.[^1]
 
 <div class="table-format case-study"><span class="title"><h5>CONNECTED LEARNING: THE POWER OF MAKING LEARNING RELEVANT</h5></span>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TH6gH6lMDD8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/TH6gH6lMDD8"></iframe>
+
 <p>This video from the <a href="https://dmlhub.net/">DML Research Hub</a> explains how connecting interests, relationships, and opportunities makes learning meaningful and relevant.</p>
 </div>
 
