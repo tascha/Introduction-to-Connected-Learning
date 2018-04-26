@@ -14,4 +14,4 @@ While the three spheres describe learning contexts, the four design principles d
 <tr><th bgcolor="#C9DAF8">Production</th><td >Learning through creation</td></tr>
 <tr><th bgcolor="#fe9a85">Multiple Pathways</th><td>Providing teens with resources and pathways to success</td></tr>
 <tr><th bgcolor="#d685fe">Shared Purpose</th><td>Connecting teens to an effort that is bigger than themselves</td></tr>
-<tr><th bgcolor="#96fe85">Sponsorship</th><td>Peers and adults validating teens’ interests through mentorship and other support</td></tr>
+<tr><th bgcolor="#96fe85">Sponsorship</th><td>Peers and adults validating teens’ interests through mentorship and other support</td></tr></table>
