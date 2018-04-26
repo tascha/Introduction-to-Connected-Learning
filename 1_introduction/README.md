@@ -2,8 +2,10 @@
 
 **Connected learning** is an educational framework that connects **interests**, **relationships**, and **opportunity**. This section provides an overview of the concept, including the **equity agenda** that drives the framework, and introduces **ConnectedLib**.
 
-| **LEARNING OUTCOMES**<br/> **_“Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”  --  Mimi  Ito  et al._**<sup id="927781289720140-footnote-ref-1"><a href="#927781289720140-footnote-1">[1]</a></sup> |
-| --- |
+| **LEARNING OUTCOMES FOR THIS SECTION**<br/>After completing Section 1: Introduction, you will be able to...<ul><li>Briefly describe connected learning and the “equity agenda” behind the framework.</li><li>Name, describe, and recognize the three spheres that connected learning connects: interests, relationships, and opportunity.</li><li>Navigate the ConnectedLib modules.</li></ul>|
+
+| **_“Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”  --  Mimi  Ito  et al._**<sup id="927781289720140-footnote-ref-1"><a href="#927781289720140-footnote-1">[1]</a></sup> |
+
 
 Connected learning is an educational framework—an approach to creating learning experiences. Connected learning is driven by learners’ interests, supported by their relationships, and oriented towards academic, economic, or civic opportunity.
 
