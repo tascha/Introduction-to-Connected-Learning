@@ -10,10 +10,10 @@ Think about your library’s youth services and programs. How well do they incor
 
 | **INTERESTS** |**RATING**|**NOTES**|
 | --- |
-| Library staff get to know teens and what they’re interested in, both their “serious” interests (like filmmaking, creative writing, or a health condition) and their “fun” interests (like specific TV shows or books) |  :grinning: |  |
-| Teens can explore and form new interests with “messing around” activities that provide light introductions to topics |  |  |
-| Teens feel free to “quit” new subjects that they find uninteresting |  |  |
-| For those who want more than just “messing around,” there are also “geeking out” opportunities |  |  |
+| Library staff get to know teens and what they’re interested in, both their “serious” interests (like filmmaking, creative writing, or a health condition) and their “fun” interests (like specific TV shows or books) |  ☺ 😐 |  |
+| Teens can explore and form new interests with “messing around” activities that provide light introductions to topics |😀  |  |
+| Teens feel free to “quit” new subjects that they find uninteresting |☺  |  |
+| For those who want more than just “messing around,” there are also “geeking out” opportunities |☺  |  |
 
 
 | **RELATIONSHIPS** |**RATING**|**NOTES**|
