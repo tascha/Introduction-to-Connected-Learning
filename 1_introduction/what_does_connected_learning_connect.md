@@ -3,9 +3,10 @@
 Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.[^1] When the spheres are connected, teens’ quality of learning and engagement with learning increases.
 
 <table class="table-format"><tr><th bgcolor="#fe9a85">Interests</th><td>Aligned with teens’ goals and motivations</td></tr>
-<tr><th>Relationships</th><td>Teens learning with and from other teens as well as adults</td></tr><tr><th>Opportunity</th><td>Directed towards academic, civic, or economic achievement</td></tr></table>
+<tr><th bgcolor="#96fe85">Relationships</th><td>Teens learning with and from other teens as well as adults</td></tr><tr><th bgcolor="C9DAF8">Opportunity</th><td>Directed towards academic, civic, or economic achievement</td></tr></table>
 
 Learning that engages all of these spheres is no longer learning teens _have_ to do; it’s learning teens _want_ to do because it is aligned with their goals and benefits these important areas of their lives.
+***
 
 ### Interests {#interests}
 
@@ -14,11 +15,12 @@ Learning that engages all of these spheres is no longer learning teens _have_ to
 Learning that driven by teens’ interests will better align with their personal motivations and goals, leading to deeper learning and higher achievement, which can help relatively disadvantaged youth overcome the obstacles and difficulties present in a more traditional educational setting.The teen years are a time for identity formation, and connected learning can help teens discover and explore new interests.
 
 <div class="table-format case-study"><span class="title"><h5>“IF IT SMELLS LIKE SCHOOL, THEY’RE NOT GOING TO TOUCH IT”</h5></span>
-<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/3wMk8SqFoEk">
-<p>Constance Steinkuehler describes her first-hand experience with the power of interest-driven learning.</p>
-</iframe>
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/3wMk8SqFoEk"></iframe>
 
->“Teens don&#039;t often know what their passions are. We need to help them explore possibilities for their passions and give them the tools necessary to explore those passions.”<br/>-- INTK_019</div>
+<p>Constance Steinkuehler describes her first-hand experience with the power of interest-driven learning.</p></div>
+
+
+>“Teens don&#039;t often know what their passions are. We need to help them explore possibilities for their passions and give them the tools necessary to explore those passions.”<br/>-- INTK_019
 
 #### What does interest driven learning look like? {#what-does-interest-driven-learning-look-like}
 
@@ -27,6 +29,8 @@ Learning that driven by teens’ interests will better align with their personal
 *   Teens feel free to “quit” new subjects that they find uninteresting
 *   For those who want more than just “messing around,” there are also “geeking out” opportunities
 *   “Pathways for mastery” guide teens in developing their interests and recognizing their achievements
+
+***
 
 ### Relationships {#relationships}
 
@@ -38,14 +42,14 @@ When learning is supported by relationships, teens aren’t just learning _with_
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/vJpQJKUoXio">
 </iframe></div>
 
-#### 
-
 #### What does learning through relationships look like? {#what-does-learning-through-relationships-look-like}
 
 *   Teens have time and space to “just hang out”
 *   Teens collaborate, share projects and activities, and give constructive feedback to each other
 *   Programs incorporate elements of culture that are important to teens
 *   Staff help teens build or join a community around their interests
+
+*** 
 
 ### Opportunity {#opportunity}
 
