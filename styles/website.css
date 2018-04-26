@@ -19,7 +19,7 @@
     background: #D9D2E9;
 }
 
-blockquote.comments-section {
+blockquote p.comments-section {
     color: black;
     font-weight: bold;
 }
