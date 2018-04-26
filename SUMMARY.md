@@ -6,6 +6,7 @@
   * [Why ConnectedLib? ](1_introduction/why_connectedlib.md)
   * [Section 1 Activities](1_introduction/section_1_activities.md)
     * [1A. Connected Learning KWL](1_introduction/section_1_activities/1a.md)
+    * [1B. Knowledge Sharing](1_introduction/section_1_activities/1b-knowledge-sharing.md)
 * [2. Connected Learning Design Principles](2_connected_learning_design_principles/README.md)
   * [Production](2_connected_learning_design_principles/production.md)
   * [Multiple Pathways](2_connected_learning_design_principles/multiple_pathways.md)
