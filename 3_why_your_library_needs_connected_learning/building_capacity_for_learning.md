@@ -11,12 +11,12 @@ By emphasizing the _hows_ and _whys_ behind the use of technology, rather than t
 Another way connected learning builds capacity in teens is by affecting their sense of self through both _production_ and _shared purpose_ elements. Through creative experiences and interactions with experts, teens can begin to see themselves as learners, creators, or professionals. This changed perception of themselves inspires and empowers them to _continue_ being learners, creators, and professionals. For teens who believe that certain opportunities—like a STEM career or college—are not available to them, a change in self-concept can be a powerful catalyst for growth and development.
 
 <div class="table-format case-study"><span class="title"><h5>CHANGING THE WAY TEENS SEE THEMSELVES</h5></span>
-At one lower-income high school in the northeast United States, a print journalism class requires students to finance, write, and produce several issues of the school newspaper. Students in the class reported that they saw themselves as better writers and as more professional as a result of the class.
->“Journalism has allowed me to write better and shaped me into an adult. Think about all the pros within the class: learning to write better, be professional, and how to make connections... Not only have I become a better writer from journalism class but a better person in terms of learning crucial qualities needed for the professional world.”
+<p>At one lower-income high school in the northeast United States, a print journalism class requires students to finance, write, and produce several issues of the school newspaper. Students in the class reported that they saw themselves as better writers and as more professional as a result of the class.</p>
+<p><i>“Journalism has allowed me to write better and shaped me into an adult. Think about all the pros within the class: learning to write better, be professional, and how to make connections... Not only have I become a better writer from journalism class but a better person in terms of learning crucial qualities needed for the professional world.”</i></p>
 
->“I view myself as more a social and confident person now since I have conducted so many interviews with people I don’t know.”
+<p><i>“I view myself as more a social and confident person now since I have conducted so many interviews with people I don’t know.”</i></p>
 
->“I feel I can do more now—more is loaded on me and I can get it done on a deadline time.”
+<p><i>“I feel I can do more now—more is loaded on me and I can get it done on a deadline time.”</i></p>
 
 For more, see: Cybart, A. K. (2017). <a href="https://search.proquest.com/docview/1907487050?accountid=14696">
 Resurrecting dinosaurs: How print journalism production using mobile phones impacts marginalized students in a high school classroom</a> (Available from ProQuest Dissertations & Theses Global, 1907487050). Teachers College, Columbia University, New York, NY. 
