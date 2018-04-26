@@ -58,10 +58,6 @@ When learning is supported by relationships, teens aren’t just learning _with_
 Opportunity-oriented learning is directed towards helping teens achieve academic, economic, or civic success, so they perform better in school, build skills that prepare them for a 21st century workplace, or connect with their communities. More importantly, connected learning emphasizes opportunity _now_, not just in the far-off, theoretical future of a post-school college or job market. Connected learning programs make the benefits to teens visible and tangible, motivating them to fully engage. Participants walk away with knowledge and skills they can use immediately.
 
 <div class="table-format case-study"><span class="title"><h5>OPPORTUNITY-ORIENTED LEARNING IN ACTION</h5></span>
-<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/ukdUrfo6LVM">
-</iframe>
-<p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money.</p>
-
 <iframe src="https://embed.ted.com/talks/geoff_mulgan_a_short_intro_to_the_studio_school" width="740" height="400" frameborder="0" allowfullscreen></iframe>
 <p>Geoff Mulgan describes how the UK’s studio school model has taken teens from the lowest to the highest grades by letting them “learn for real.”</p></div>
 
