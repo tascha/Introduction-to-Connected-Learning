@@ -36,7 +36,11 @@ blockquote p.comments-section {
 
 /* other custom stuff */
 
-  
+iframe {
+    text-align: center;
+}
+
+/* end custom stuff */  
 
 .cell-width {
 
