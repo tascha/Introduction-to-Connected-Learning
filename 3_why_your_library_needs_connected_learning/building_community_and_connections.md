@@ -9,3 +9,6 @@ Connected learning also emphasizes community relationships, which the public lib
 </iframe>
 <p>Henry Jenkins talks about the power of participation.</p>
 </div>
+
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul><li><a href="http://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/pp/Ready_To_Code_Report_FINAL.pdf">Ready to Code: Connecting Youth to CS Opportunity Through Libraries</a> (Linda Braun & Marijke Visser, 2017)</li></ul></div>
