@@ -20,7 +20,7 @@ Learning that driven by teens’ interests will better align with their personal
 <p>Constance Steinkuehler describes her first-hand experience with the power of interest-driven learning.</p></div>
 
 
->“Teens don&#039;t often know what their passions are. We need to help them explore possibilities for their passions and give them the tools necessary to explore those passions.”<br/>-- INTK_019
+>“Teens don&#039;t often know what their passions are. We need to help them explore possibilities for their passions and give them the tools necessary to explore those passions.”<br/>-- Urban Midwest Library
 
 #### What does interest driven learning look like? {#what-does-interest-driven-learning-look-like}
 
@@ -34,7 +34,7 @@ Learning that driven by teens’ interests will better align with their personal
 
 ### Relationships {#relationships}
 
->“Watching the teens find each other and connect with each other and realize,’Oh, I&#039;m not the only geek on the planet, and there are other people that are really into stuff in an intense way and that&#039;s okay and we can celebrate it’...Our writing club did fairytale fanfiction all summer and it was awesome to see how they bonded and got more comfortable sharing their geek with each other... Connecting the teens to each other is [a] huge success.”<br/>-— INTK_035</div>
+>“Watching the teens find each other and connect with each other and realize,’Oh, I&#039;m not the only geek on the planet, and there are other people that are really into stuff in an intense way and that&#039;s okay and we can celebrate it’...Our writing club did fairytale fanfiction all summer and it was awesome to see how they bonded and got more comfortable sharing their geek with each other... Connecting the teens to each other is [a] huge success.”<br/>-- Suburban Northeast Library  
 
 When learning is supported by relationships, teens aren’t just learning _with_ each other—they’re also learning _from_ each other by sharing their ideas, providing constructive feedback, and collaborating on projects.
 

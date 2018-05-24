@@ -1,7 +1,7 @@
 # 3\. Why Your Library Needs Connected Learning 
 
-<div class="table-format objectives"><span class="title"><h5>LEARNING OUTCOMES</h5></span>
-After completing Section 3: Why Your Library Needs Connected Learning, you will be able to...
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS SECTION</h5></span>
+<p><b>After completing Section 3: Why Your Library Needs Connected Learning, you will be able to...</b></p>
 <ul><li>Explain how connected learning can enhance your library’s services to teens</li><li>Describe the “equity agenda” inherent in connected learning, and develop your own agenda for equity in your community</li></ul></div>
 
 

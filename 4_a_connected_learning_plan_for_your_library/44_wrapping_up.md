@@ -6,7 +6,7 @@ By completing the first three parts of section 4, you have created a simple but 
 <th colspan="3">What experience do you have with connected learning, if any? If you have no experience, what has been your approach to youth programming to date?</th>
 </tr>
 <tr>
-<td colspan="3"><textarea style="width: 100%; height: 350px; border: none;"/></td>
+<td colspan="3" height="200px"></td>
 </tr>
 <tr>
 <th>Know</th>
@@ -14,7 +14,7 @@ By completing the first three parts of section 4, you have created a simple but 
 <th>Learn</th>
 </tr>
 <tr>
-<td style="height: 200px;">What do you already know about connected learning? </td>
+<td>What do you already know about connected learning? </td>
 <td>What do you want to learn about connected learning in this module?</td>
 <td>Leave this section blank for now.</td>
 </tr>

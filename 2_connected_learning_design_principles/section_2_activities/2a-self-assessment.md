@@ -15,7 +15,7 @@ For each example of connected learning on the following pages, rate your current
 | **PRODUCTION** |  |
 | **SHARED PURPOSE** |  |
 | **SPONSORSHIP** |  |
-| **MULTIPLE PATHWAYS** |  |
+| **MULTIPLE PATHWAYS** |&nbsp;  |
 
 
 | **INTERESTS** |**YOUR RATING**|**POINTS**|
@@ -31,42 +31,42 @@ For each example of connected learning on the following pages, rate your current
 | Teens have time and space to “just hang out” | 😀 😐 😱 |  |
 | Teens collaborate, share projects and activities, and give constructive feedback to each other |😀 😐 😱  |  |
 | Programs incorporate elements of culture that are important to teens | 😀 😐 😱 |  |
-| Staff help teens build or join a community around their interests | 😀 😐 😱 |  |
+| Staff help teens build or join a community around their interests | 😀 😐 😱 | &nbsp; |
 
 | **OPPORTUNITY** |**YOUR RATING**|**POINTS**|
 |---|
 | Teens are connected to mentors with professional experience |😀 😐 😱  |  |
 | Programs relate to civic, economic, or academic development |😀 😐 😱  |  |
 | Teens see immediate value in activities |😀 😐 😱  |  |
-| Activities result in items or performances teens can use to demonstrate their achievements to teachers or future employers |😀 😐 😱  |  |
+| Activities result in items or performances teens can use to demonstrate their achievements to teachers or future employers |😀 😐 😱  | &nbsp; |
 
 | **PRODUCTION** |**YOUR RATING**|**POINTS**|
 |---|
 | Teens have access to digital and physical tools to help them build, create, and perform |  😀 😐 😱|  |
 | Teens are encouraged to remix and curate content | 😀 😐 😱 |  |
 | Teens’ creations are made visible outside of the library | 😀 😐 😱 |  |
-| Teens are allowed to work on their own creative ideas | 😀 😐 😱 |  |
+| Teens are allowed to work on their own creative ideas | 😀 😐 😱 | &nbsp; |
 
 | **SHARED PURPOSE** |**YOUR RATING**|**POINTS**|
 |---|
 | There are group projects and activities |😀 😐 😱  |  |
 | There are mentors who can collaborate and co-learn with teens |😀 😐 😱  |  |
 | Activities involve teens of different ages and from different backgrounds |😀 😐 😱  |  |
-| Teens contribute to real-world projects and initiatives |😀 😐 😱  |  |
+| Teens contribute to real-world projects and initiatives |😀 😐 😱  | &nbsp; |
 
 | **SPONSORSHIP** |**YOUR RATING**|**POINTS**|
 |---|
 | Mentors (adults or experienced peers) are found for teens based on their common interests |😀 😐 😱  |  |
 | Adults “broker” connections to other people and resources that support teens’ interests |  | 😀 😐 😱 |
 | Adults help teens gain access to the tools and spaces they need at the library or elsewhere |😀 😐 😱  |  |
-| Teens’ interests are celebrated and validated |😀 😐 😱  |  |
+| Teens’ interests are celebrated and validated |😀 😐 😱  |&nbsp;  |
 
 | **MULTIPLE PATHWAYS** |**YOUR RATING**|**POINTS**|
 |---|
 | Teens have access to a “kitchen” or “menu” of resources they can choose from to create their own projects |😀 😐 😱  |  |
 | Learning occurs and creations are shared across contexts | 😀 😐 😱 |  |
 | Achievement is recognized through shareable products like badges or digital portfolios |😀 😐 😱  |  |
-| Teens can connect projects and resources in whatever way fits their individual interests and goals |😀 😐 😱  |  |
+| Teens can connect projects and resources in whatever way fits their individual interests and goals |😀 😐 😱  | &nbsp; |
 
 
 
