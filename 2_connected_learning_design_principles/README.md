@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 # 2\. Connected Learning Design Principles {#2-connected-learning-design-principles}
 
 In order to connect teen’s interests, relationships, and opportunity, connected learning programs follow a set of design principles: they are production centered, build pathways, sponsor youth interests, and create a sense of shared purpose. This section examines those principles.

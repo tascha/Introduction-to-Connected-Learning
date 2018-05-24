@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ### 1C. Reflection: Learn to DJ Lab
 <p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money.</p>
 

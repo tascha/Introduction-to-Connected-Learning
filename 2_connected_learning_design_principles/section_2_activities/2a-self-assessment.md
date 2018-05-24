@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ### 2A. Self-Assessment 
 
 Think about your library’s youth services and programs. How well do they incorporate the spheres of teen learning and design principles of connected learning? 

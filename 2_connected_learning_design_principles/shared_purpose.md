@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ## Shared Purpose {#shared-purpose}
 
 Teens are often sorted based on their ages and where they live, but the resulting groups aren’t necessarily the most supportive for their individual skills and interests. Connected learning activities connect teens with each other and with adults by giving them a shared purpose around a common goal or interest, not around an age or school district. Adults and more skilled teens can share knowledge and model behavior with less advanced teens, and interest-driven programs, competitions, and challenges can bring together teens from different backgrounds who might not meet otherwise.

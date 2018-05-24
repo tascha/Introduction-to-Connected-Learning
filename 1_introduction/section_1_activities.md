@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ## Section 1 Activities {#section-1-activities}
 
 [1A. Connected Learning KWL](section_1_activities/1a.html)

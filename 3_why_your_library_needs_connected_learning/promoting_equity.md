@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ## Promoting Equity {#promoting-equity}
 
 >“It&#039;s not that I think people who are wealthy don&#039;t deserve library services, but I think that part of our mission is to bring them... fairly to everyone, which doesn&#039;t always mean exactly equal.”<br/> -- Southern Suburban Library

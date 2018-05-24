@@ -1,3 +1,5 @@
+<img src="/assets/CL_Logo_Slogan.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 # 1\. Introduction {#1-introduction}
 
 **Connected learning** is an educational framework that connects **interests**, **relationships**, and **opportunity**. This section provides an overview of the concept, including the **equity agenda** that drives the framework, and introduces **ConnectedLib**.

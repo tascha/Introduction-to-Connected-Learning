@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 # 4\. A Connected Learning Plan for Your Library {#4-a-connected-learning-plan-for-your-library}
 
 <div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS SECTION</h5></span>

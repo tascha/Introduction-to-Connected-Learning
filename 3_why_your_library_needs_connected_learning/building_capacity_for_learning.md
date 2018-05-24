@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ## Building Capacity for Learning 
 
 >“I&#039;d love to have an ongoing Minecraft club, but I&#039;m getting a little pushback from my team because they don&#039;t see Minecraft as a library service. They don&#039;t see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don&#039;t exist today, so who knows?”<br/> -- Southern Suburban Library

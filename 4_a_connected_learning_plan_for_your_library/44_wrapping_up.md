@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ## Wrapping Up {#4-4-wrapping-up}
 
 By completing the first three parts of section 4, you have created a simple but actionable plan for better implementing connected learning in your library. Now reflect on this module as a whole. Review the KWL you completed at the beginning of the module. Copy over what you completed for [Activity 1A](section_1_activities/1a.html), then complete the L(earn) section. What did you learn in this module? Did you learn everything from your W column? If not, discuss this with the rest of the class.

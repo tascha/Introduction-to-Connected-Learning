@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ## Sponsorship {#sponsorship}
 
 Connected learning programs foster sponsorship of learners’ interests. Adults, and more experienced peers can show teens that their goals are valid and important through mentoring, “brokering” (connecting individuals to other resources and opportunities), or providing tools and resources for teens, like space to work or a particular technology.

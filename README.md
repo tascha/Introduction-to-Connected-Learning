@@ -1,5 +1,7 @@
 # Introduction to Connected Learning {#introduction-to-connected-learning}
 
+<img src="/assets/CL_Logo_Slogan.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+
 **DESCRIPTION:** Learn what connected learning is and why it is important, then evaluate your youth programs to see how well they incorporate connected learning principles.
 
 <div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS MODULE</h5></span><p><b>After completing the Introduction to Connected Learning module, you will be able to…</b></p><ul><li>Describe connected learning and what it connects, and navigate the ConnectedLib modules (<a href="1_introduction/">Section 1: Introduction</a>)

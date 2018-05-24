@@ -1,3 +1,7 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
+
+
 ## What does connected learning connect? {#what-does-connected-learning-connect}
 
 Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.[^2] When the spheres are connected, teens’ quality of learning and engagement with learning increases.

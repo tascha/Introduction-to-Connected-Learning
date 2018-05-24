@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="/assets/CL_Swoosh.png" alt=""/></div>
+
 ## Production {#production}
 
 Hands-on, creative activities are not just powerful learning experiences. Building, performing, writing, and other creative outlets empower teens to express themselves and give teens something tangible they can take away from the experience. Remixing and curating content is also a form of production that many teens are embracing.
