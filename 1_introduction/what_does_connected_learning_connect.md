@@ -1,6 +1,6 @@
 ## What does connected learning connect? {#what-does-connected-learning-connect}
 
-Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.[^1] When the spheres are connected, teens’ quality of learning and engagement with learning increases.
+Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.[^2] When the spheres are connected, teens’ quality of learning and engagement with learning increases.
 
 <table class="table-format"><tr><th bgcolor="#fe9a85">Interests</th><td>Aligned with teens’ goals and motivations</td></tr>
 <tr><th bgcolor="#96fe85">Relationships</th><td>Teens learning with and from other teens as well as adults</td></tr><tr><th bgcolor="C9DAF8">Opportunity</th><td>Directed towards academic, civic, or economic achievement</td></tr></table>
@@ -39,7 +39,7 @@ Learning that driven by teens’ interests will better align with their personal
 When learning is supported by relationships, teens aren’t just learning _with_ each other—they’re also learning _from_ each other by sharing their ideas, providing constructive feedback, and collaborating on projects.
 
 <div class="table-format case-study"><span class="title"><h5>LEARNING THROUGH RELATIONSHIPS</h5></span>
-<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/vJpQJKUoXio">
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/whc_ZivyEdA">
 </iframe></div>
 
 #### What does learning through relationships look like? {#what-does-learning-through-relationships-look-like}
@@ -53,7 +53,7 @@ When learning is supported by relationships, teens aren’t just learning _with_
 
 ### Opportunity {#opportunity}
 
->“A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<br/>-- Mimi Ito[^1]
+>“A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<br/>-- Mimi Ito[^2]
 
 Opportunity-oriented learning is directed towards helping teens achieve academic, economic, or civic success, so they perform better in school, build skills that prepare them for a 21st century workplace, or connect with their communities. More importantly, connected learning emphasizes opportunity _now_, not just in the far-off, theoretical future of a post-school college or job market. Connected learning programs make the benefits to teens visible and tangible, motivating them to fully engage. Participants walk away with knowledge and skills they can use immediately.
 
@@ -71,4 +71,4 @@ Opportunity-oriented learning is directed towards helping teens achieve academic
 
 ***
 
-[^1]: Ito, Mizuko, Kris Gutiérrez, Sonia Livingstone, Bill Penuel, Jean Rhodes, Katie Salen, Juliet Schor, Julian Sefton-Green, and S. Craig Watkins. <a href="https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/">_Connected Learning: An Agenda for Research and Design_</a>. Irvine, CA: Digital Media and Learning Research Hub, 2013, 62\.
+[^2]: Ito, Mizuko, Kris Gutiérrez, Sonia Livingstone, Bill Penuel, Jean Rhodes, Katie Salen, Juliet Schor, Julian Sefton-Green, and S. Craig Watkins. <a href="https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/">Connected Learning: An Agenda for Research and Design</a>. Irvine, CA: Digital Media and Learning Research Hub, 2013.

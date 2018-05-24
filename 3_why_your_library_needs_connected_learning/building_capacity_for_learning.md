@@ -1,10 +1,10 @@
 ## Building Capacity for Learning 
 
->“I&#039;d love to have an ongoing Minecraft club, but I&#039;m getting a little pushback from my team because they don&#039;t see Minecraft as a library service. They don&#039;t see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don&#039;t exist today, so who knows?”<br/> -- INTS_031
+>“I&#039;d love to have an ongoing Minecraft club, but I&#039;m getting a little pushback from my team because they don&#039;t see Minecraft as a library service. They don&#039;t see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don&#039;t exist today, so who knows?”<br/> -- Southern Suburban Library
 
 Many of the librarians we spoke to expressed anxiety about their ability to keep up with the rate of technological change. Today’s hot new gadget, app, or programming language may be dated or obsolete in a few years. Fortunately, connected learning treats technology as a means to an end--building a teen’s capacity to learn--rather as an end in itself. In other words, the emphasis is on learning how to learn, rather than learning facts about using a specific technology. Connected learning certainly embraces new technology, often with mentors and teens learning side by side, but its value lies in what it lets them do--making, curating, and remixing their own creative media as part of a new “participatory culture.”
 
->“It’s not domain-specific knowledge that we should be looking at as much as an underlying disposition for learning and capacity for future learning that’s the most important outcome.”<br/> -- Mimi Ito[^1]
+>“It’s not domain-specific knowledge that we should be looking at as much as an underlying disposition for learning and capacity for future learning that’s the most important outcome.”<br/> -- Mimi Ito[^5]
 
 By emphasizing the _hows_ and _whys_ behind the use of technology, rather than the specific _whats_, connected learning builds skills that will transfer to whatever new developments are around the corner. A variety of skills, from computational thinking to photo composition, can be learned just as well on simple or even analog technologies as they can be learned with the latest edtech--and will be useful for years or even decades to come.
 
@@ -22,4 +22,4 @@ For more, see: Cybart, A. K. (2017). <a href="https://search.proquest.com/docvie
 Resurrecting dinosaurs: How print journalism production using mobile phones impacts marginalized students in a high school classroom</a> (Available from ProQuest Dissertations & Theses Global, 1907487050). Teachers College, Columbia University, New York, NY. 
 </div>
 
-[^1]: [https://www.youtube.com/watch?v=JtYZzTLK16s](https://www.youtube.com/watch?v=JtYZzTLK16s)
+[^5]: DMLResearchHub. [Mimi Ito: The Positive Potential of Peer Pressure and Messing Around Online](https://www.youtube.com/watch?v=JtYZzTLK16s) [YouTube], 2011.

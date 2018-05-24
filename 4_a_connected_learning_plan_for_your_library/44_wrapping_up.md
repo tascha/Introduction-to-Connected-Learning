@@ -14,13 +14,13 @@ By completing the first three parts of section 4, you have created a simple but 
 <th>Learn</th>
 </tr>
 <tr>
-<td>What do you already know about connected learning? </td>
+<td style="height: 200px;">What do you already know about connected learning? </td>
 <td>What do you want to learn about connected learning in this module?</td>
-<td>What did you learn about connected learning in this module?</td>
+<td>Leave this section blank for now.</td>
 </tr>
 <tr>
-<td style="width: 33%;"><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
-<td style="width: 33%;"><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
-<td style="width: 33%;"><textarea style="width:100%; height:349px; border:none; align:center;"/></td>
+<td style="width: 33%; height: 400px;"></td>
+<td style="width: 33%;"></td>
+<td style="width: 33%;"></td>
 </tr>
 </table>
