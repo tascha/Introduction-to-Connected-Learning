@@ -1,4 +1,4 @@
-<img src="/assets/CL_Logo_Slogan.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/></div>
+<img src="/assets/CL_Logo_Slogan.png" alt="ConnectedLib: Helping librarians use digital media to make learning connections with youth"/>
 
 # 1\. Introduction {#1-introduction}
 
