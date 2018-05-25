@@ -24,4 +24,6 @@ For more, see: Cybart, A. K. (2017). <a href="https://search.proquest.com/docvie
 Resurrecting dinosaurs: How print journalism production using mobile phones impacts marginalized students in a high school classroom</a> (Available from ProQuest Dissertations & Theses Global, 1907487050). Teachers College, Columbia University, New York, NY. 
 </div>
 
+<hr/>
+
 [^5]: DMLResearchHub. [Mimi Ito: The Positive Potential of Peer Pressure and Messing Around Online](https://www.youtube.com/watch?v=JtYZzTLK16s) [YouTube], 2011.

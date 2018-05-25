@@ -12,6 +12,8 @@ Secondly, this definition of success--a white collar job after a four-year degre
 
 Finally, the traditional model simply isn’t available to all youth. Many learners are in underfunded schools and are not enrolled in the enrichment activities associated with academic success. Parental spending on enrichment activities has steadily climbed since 1976 for families in the top income quintile, but remained about the same for families in the lowest income quintile.[^4] Through connected learning, a library can provide enrichment and mentorship to youth who would not have them otherwise.
 
+<hr/>
+
 [^3]: Harris, K., Greenwald, E., &amp; Cannady, M. (2012). [Pathways to science and engineering careers: Variation within and across paths](http://www.activationlab.org/research/#aera2012). Poster presented at AERA 2012\. Vancouver, BC: AERA. 
 
 [^4]: 21st Century Learning International. _[Mimi Ito - Connected Learning](https://www.youtube.com/watch?v=0MwbjCwznZY)_ [YouTube], 2016. 
