@@ -7,7 +7,7 @@ Think about your library’s youth services and programs. How well do they incor
 For each example of connected learning on the following pages, rate your current youth services and programs as 😃  (very well) , 😐  (OK), or 😱  (not very well). Then, give each principle points based on the ratings:  😱 = 0 points, 😐  = 1 points, 😃 = 2 points, and enter the tally in the summary box.  
 
 
-<a href="assets/Intro_SelfAssessment.docx" target="_blank"><i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>&nbsp; Download worksheet (MS Word)</a>
+<a href="/assets/Intro_SelfAssessment.docx" target="_blank"><i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>&nbsp; Download worksheet (MS Word)</a>
 
 | **PRINCIPLE** |**POINTS**|
 | --- | --- |
